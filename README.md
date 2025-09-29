@@ -59,7 +59,7 @@ PhishDeceptor/
 📊 Results:
 Example Output:
 
-🛡️ PhishDeceptor ANALYSIS
+🛡️ PHISHDECEPTOR ANALYSIS
 URL: http://secure-paypal.com
 RISK: 92% 🚨 PHISHING
 - Brand impersonation detected
